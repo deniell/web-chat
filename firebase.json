@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "friendly-web-chat-app",
     "public": "./public",
     "headers": [{
       "source" : "**/*.@(js|html)",
